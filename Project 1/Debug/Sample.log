@@ -1,0 +1,16 @@
+﻿  sample.cpp
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(316): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(624): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(641): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(1073): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(1075): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(1077): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(1079): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(1088): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(1090): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(1092): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(1094): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\aum\downloads\cs 550\cs 550\project 1\sample.cpp(1452): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\AUM\Downloads\CS 550\CS 550\Project 1\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
